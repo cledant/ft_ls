@@ -1,0 +1,76 @@
+-rw-r--r--  1 cledant 2015_paris 2510  Jan 11 16:54 aaaaaaaaaaaa
+-rw-r--r--  1 cledant 2015_paris 2095  Jan 11 16:54 bbbbbbb
+-rwx------  1 cledant 2015_paris 968  Dec 19 11:25 libft/srcs/ft_max.c
+-rwx------  1 cledant 2015_paris 1112  Nov 24 15:53 libft/srcs/ft_strcat.c
+
+includes:
+total 16
+-rwx------  1 cledant 2015_paris 4932  Jan 11 15:51 ft_ls.h
+
+srcs:
+total 528
+-rw-r--r--  1 cledant 2015_paris 1078  Jan  6 12:57 ft_argv_is_opt.c
+-rwx------  1 cledant 2015_paris 1491  Jan  6 16:11 ft_btree_add_node.c
+-rwx------  1 cledant 2015_paris 1383  Jan  6 15:45 ft_btree_add_node.c.old
+-rwx------  1 cledant 2015_paris 1148  Jan  4 14:52 ft_btree_apply_infix.c
+-rwx------  1 cledant 2015_paris 1150  Jan  5 10:30 ft_btree_apply_postfix.c
+-rwx------  1 cledant 2015_paris 1172  Jan  4 15:43 ft_btree_apply_reverse_infix.c
+-rwx------  1 cledant 2015_paris 1389  Jan  5 15:18 ft_btree_del_all_0_size_node.c
+-rwx------  1 cledant 2015_paris 1671  Jan  6 17:32 ft_btree_del_all_node.c
+-rwx------  1 cledant 2015_paris 1151  Jan  4 14:54 ft_btree_delone.c
+-rwx------  1 cledant 2015_paris 2123  Jan  7 19:47 ft_btree_linfo.c.unused
+-rw-r--r--  1 cledant 2015_paris 1905  Jan 11 13:34 ft_btree_mstat_file.c
+-rwx------  1 cledant 2015_paris 1537  Jan  6 15:52 ft_btree_new.c
+-rwx------  1 cledant 2015_paris 2449  Jan 11 15:50 ft_btree_sort_dir.c
+-rwx------  1 cledant 2015_paris 2449  Jan 11 12:26 ft_btree_sort_dir.c.old2
+-rw-r--r--  1 cledant 2015_paris 1212  Jan 11 12:17 ft_compare_six_month.c
+-rw-r--r--  1 cledant 2015_paris 3152  Jan  9 16:21 ft_compare_six_month.c.old
+-rwx------  1 cledant 2015_paris 1030  Jan  8 17:34 ft_display_all.c
+-rw-r--r--  1 cledant 2015_paris 1519  Jan 11 12:42 ft_display_blocksize.c
+-rw-r--r--  1 cledant 2015_paris 1617  Jan 11 16:26 ft_display_l_all.c
+-rw-r--r--  1 cledant 2015_paris 1114  Jan  8 17:44 ft_display_l_groupname.c
+-rw-r--r--  1 cledant 2015_paris 1033  Jan  9 08:54 ft_display_l_major.c
+-rw-r--r--  1 cledant 2015_paris 1051  Jan  9 08:49 ft_display_l_minor.c
+-rw-r--r--  1 cledant 2015_paris 1195  Jan 11 13:34 ft_display_l_mode.c
+-rw-r--r--  1 cledant 2015_paris 1079  Jan  8 20:42 ft_display_l_mode_group.c
+-rw-r--r--  1 cledant 2015_paris 1079  Jan  8 20:28 ft_display_l_mode_other.c
+-rw-r--r--  1 cledant 2015_paris 2007  Jan 11 16:53 ft_display_l_mode_right.c
+-rw-r--r--  1 cledant 2015_paris 2013  Jan 11 16:53 ft_display_l_mode_right_group.c
+-rw-r--r--  1 cledant 2015_paris 2013  Jan 11 16:53 ft_display_l_mode_right_other.c
+-rw-r--r--  1 cledant 2015_paris 1425  Jan  8 17:47 ft_display_l_mode_type.c
+-rw-r--r--  1 cledant 2015_paris 1072  Jan  8 20:23 ft_display_l_mode_user.c
+-rw-r--r--  1 cledant 2015_paris 1688  Jan 10 18:16 ft_display_l_no_dot.c
+-rw-r--r--  1 cledant 2015_paris 1556  Jan 11 16:21 ft_display_l_symlink.c
+-rw-r--r--  1 cledant 2015_paris 1838  Jan  9 18:14 ft_display_l_time.c
+-rw-r--r--  1 cledant 2015_paris 1117  Jan  8 17:55 ft_display_l_username.c
+-rwx------  1 cledant 2015_paris 1076  Jan  6 09:03 ft_display_no_dot.c
+-rw-r--r--  1 cledant 2015_paris 1278  Jan 11 15:47 ft_explore_hidden.c
+-rwx------  1 cledant 2015_paris 1040  Jan  6 18:04 ft_free_content.c
+-rwx------  1 cledant 2015_paris 1328  Jan 11 13:49 ft_fuse_chain.c
+-rw-r--r--  1 cledant 2015_paris 1167  Jan 11 20:25 ft_is_path_dir.c
+-rw-r--r--  1 cledant 2015_paris 1116  Jan 11 20:15 ft_is_path_link.c
+-rw-r--r--  1 cledant 2015_paris 1019  Jan  9 17:50 ft_is_year_leapyear.c
+-rw-r--r--  1 cledant 2015_paris 1096  Jan 11 16:08 ft_lastchar_is_slash.c
+-rw-r--r--  1 cledant 2015_paris 2332  Jan  7 19:47 ft_linfo_btree_compare_size.c.unused
+-rwx------  1 cledant 2015_paris 1119  Jan  7 19:47 ft_linfo_init.c.unused
+-rwx------  1 cledant 2015_paris 1086  Jan  6 15:38 ft_mstat_compare_name.c
+-rwx------  1 cledant 2015_paris 1182  Jan  5 09:18 ft_mstat_compare_time.c
+-rwx------  1 cledant 2015_paris 1056  Jan  5 15:19 ft_mstat_del.c
+-rw-r--r--  1 cledant 2015_paris 1293  Jan 11 15:48 ft_mstat_explore_hidden.c
+-rwx------  1 cledant 2015_paris 1109  Jan  7 10:47 ft_mstat_is_content_dir.c
+-rwx------  1 cledant 2015_paris 1110  Jan  8 17:14 ft_mstat_is_content_link.c
+-rwx------  1 cledant 2015_paris 1114  Jan  8 13:24 ft_mstat_is_content_sp_block.c
+-rwx------  1 cledant 2015_paris 1113  Jan  8 13:23 ft_mstat_is_content_sp_char.c
+-rwx------  1 cledant 2015_paris 1430  Jan 10 12:17 ft_mstat_new.c
+-rwx------  1 cledant 2015_paris 1803  Jan 11 13:34 ft_mstat_save.c
+-rw-r--r--  1 cledant 2015_paris 1224  Jan  6 10:40 ft_option_fill_struct.c
+-rw-r--r--  1 cledant 2015_paris 1060  Jan  6 10:09 ft_option_init.c
+-rwx------  1 cledant 2015_paris 3794  Jan 11 19:17 ft_option_ls.c
+-rw-r--r--  1 cledant 2015_paris 1908  Jan 10 18:17 ft_option_what_to_display.c
+-rwx------  1 cledant 2015_paris 1005  Jan  6 12:57 ft_putendl_colon.c
+-rw-r--r--  1 cledant 2015_paris 1251  Jan 11 19:58 ft_ssort_init.c
+-rwx------  1 cledant 2015_paris 1250  Jan 11 15:46 ft_strcmp_nchar.c
+-rwx------  1 cledant 2015_paris 1263  Jan 11 13:40 ft_title_cap_r.c
+-rwx------  1 cledant 2015_paris 4681  Jan 11 19:59 main.c
+-rwxrwxrwx  1 cledant 2015_paris 1655  Jan  6 13:38 main.c.old
+-rw-r--r--  1 cledant 2015_paris 1075  Jan  7 10:47 test_mstat_is_content_dir.c.test

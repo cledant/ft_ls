@@ -1,0 +1,401 @@
+total 88
+drwx------  2 cledant 2015_paris 68  Jan  4 15:31 -l
+drwx------  15 cledant 2015_paris 510  Jan 10 2016 .
+drwx------  13 cledant 2015_paris 442  Jan  7 17:26 ..
+-rwx------  1 cledant 2015_paris 10244  Jan 10 15:46 .DS_Store
+drwx------  10 cledant 2015_paris 340  Jan  4 09:18 .git
+drwxr-xr-x  2 cledant 2015_paris 68  Jan  6 11:48 12test
+-rwxr-xr-x  1 cledant 2015_paris 30064  Jan 10 17:54 a.out
+-rw-r--r--  1 cledant 2015_paris 0  Jan 10 13:17 dev
+drwx------  4 cledant 2015_paris 136  Jan 10 16:47 includes
+drwx------  83 cledant 2015_paris 2822  Jan  4 14:48 libft
+drwx------  70 cledant 2015_paris 2380  Jan 10 17:54 srcs
+drwx------  17 cledant 2015_paris 578  Jan 10 11:37 testdir
+drwxr-xr-x  4 cledant 2015_paris 136  Jan 10 13:41 testdirbis
+drwxr-xr-x  4 cledant 2015_paris 136  Jan 10 11:40 testinfinite
+-rw-r--r--  1 cledant 2015_paris 0  Jan 10 2016 ups
+
+./-l:
+total 0
+drwx------  2 cledant 2015_paris 68  Jan  4 15:31 .
+drwx------  15 cledant 2015_paris 510  Jan 10 2016 ..
+
+./.git:
+total 24
+drwx------  10 cledant 2015_paris 340  Jan  4 09:18 .
+drwx------  15 cledant 2015_paris 510  Jan 10 2016 ..
+-rwx------  1 cledant 2015_paris 23  Jan  4 09:18 HEAD
+drwx------  2 cledant 2015_paris 68  Jan  4 09:18 branches
+-rwx------  1 cledant 2015_paris 331  Jan  4 09:18 config
+-rwx------  1 cledant 2015_paris 73  Jan  4 09:18 description
+drwx------  11 cledant 2015_paris 374  Jan  4 09:18 hooks
+drwx------  3 cledant 2015_paris 102  Jan  4 09:18 info
+drwx------  4 cledant 2015_paris 136  Jan  4 09:18 objects
+drwx------  4 cledant 2015_paris 136  Jan  4 09:18 refs
+
+./.git/branches:
+total 0
+drwx------  2 cledant 2015_paris 68  Jan  4 09:18 .
+drwx------  10 cledant 2015_paris 340  Jan  4 09:18 ..
+
+./.git/hooks:
+total 72
+drwx------  11 cledant 2015_paris 374  Jan  4 09:18 .
+drwx------  10 cledant 2015_paris 340  Jan  4 09:18 ..
+-rwx------  1 cledant 2015_paris 452  Jan  4 09:18 applypatch-msg.sample
+-rwx------  1 cledant 2015_paris 896  Jan  4 09:18 commit-msg.sample
+-rwx------  1 cledant 2015_paris 189  Jan  4 09:18 post-update.sample
+-rwx------  1 cledant 2015_paris 398  Jan  4 09:18 pre-applypatch.sample
+-rwx------  1 cledant 2015_paris 1642  Jan  4 09:18 pre-commit.sample
+-rwx------  1 cledant 2015_paris 1348  Jan  4 09:18 pre-push.sample
+-rwx------  1 cledant 2015_paris 4951  Jan  4 09:18 pre-rebase.sample
+-rwx------  1 cledant 2015_paris 1239  Jan  4 09:18 prepare-commit-msg.sample
+-rwx------  1 cledant 2015_paris 3611  Jan  4 09:18 update.sample
+
+./.git/info:
+total 0
+drwx------  3 cledant 2015_paris 102  Jan  4 09:18 .
+drwx------  10 cledant 2015_paris 340  Jan  4 09:18 ..
+-rwx------  1 cledant 2015_paris 240  Jan  4 09:18 exclude
+
+./.git/objects:
+total 0
+drwx------  4 cledant 2015_paris 136  Jan  4 09:18 .
+drwx------  10 cledant 2015_paris 340  Jan  4 09:18 ..
+drwx------  2 cledant 2015_paris 68  Jan  4 09:18 info
+drwx------  2 cledant 2015_paris 68  Jan  4 09:18 pack
+
+./.git/objects/info:
+total 0
+drwx------  2 cledant 2015_paris 68  Jan  4 09:18 .
+drwx------  4 cledant 2015_paris 136  Jan  4 09:18 ..
+
+./.git/objects/pack:
+total 0
+drwx------  2 cledant 2015_paris 68  Jan  4 09:18 .
+drwx------  4 cledant 2015_paris 136  Jan  4 09:18 ..
+
+./.git/refs:
+total 0
+drwx------  4 cledant 2015_paris 136  Jan  4 09:18 .
+drwx------  10 cledant 2015_paris 340  Jan  4 09:18 ..
+drwx------  2 cledant 2015_paris 68  Jan  4 09:18 heads
+drwx------  2 cledant 2015_paris 68  Jan  4 09:18 tags
+
+./.git/refs/heads:
+total 0
+drwx------  2 cledant 2015_paris 68  Jan  4 09:18 .
+drwx------  4 cledant 2015_paris 136  Jan  4 09:18 ..
+
+./.git/refs/tags:
+total 0
+drwx------  2 cledant 2015_paris 68  Jan  4 09:18 .
+drwx------  4 cledant 2015_paris 136  Jan  4 09:18 ..
+
+./12test:
+total 0
+drwxr-xr-x  2 cledant 2015_paris 68  Jan  6 11:48 .
+drwx------  15 cledant 2015_paris 510  Jan 10 2016 ..
+
+./includes:
+total 40
+drwx------  4 cledant 2015_paris 136  Jan 10 16:47 .
+drwx------  15 cledant 2015_paris 510  Jan 10 2016 ..
+-rw-------  1 cledant 2015_paris 20480  Jan 10 16:48 .ft_ls.h.swp
+-rwx------  1 cledant 2015_paris 4661  Jan 10 16:47 ft_ls.h
+
+./libft:
+total 784
+drwx------  83 cledant 2015_paris 2822  Jan  4 14:48 .
+drwx------  15 cledant 2015_paris 510  Jan 10 2016 ..
+-rwx------  1 cledant 2015_paris 6148  Jan  4 09:20 .DS_Store
+-rwx------  1 cledant 2015_paris 2383  Jan  4 09:14 Makefile
+-rwx------  1 cledant 2015_paris 644  Jan  4 14:48 ft_abs.o
+-rwx------  1 cledant 2015_paris 1864  Jan  4 14:48 ft_atoi.o
+-rwx------  1 cledant 2015_paris 676  Jan  4 14:48 ft_bzero.o
+-rwx------  1 cledant 2015_paris 880  Jan  4 14:48 ft_can_be_atoi.o
+-rwx------  1 cledant 2015_paris 932  Jan  4 14:48 ft_int_tab2_new.o
+-rwx------  1 cledant 2015_paris 712  Jan  4 14:48 ft_isalnum.o
+-rwx------  1 cledant 2015_paris 688  Jan  4 14:48 ft_isalpha.o
+-rwx------  1 cledant 2015_paris 664  Jan  4 14:48 ft_isascii.o
+-rwx------  1 cledant 2015_paris 664  Jan  4 14:48 ft_isdigit.o
+-rwx------  1 cledant 2015_paris 708  Jan  4 14:48 ft_iseven.o
+-rwx------  1 cledant 2015_paris 708  Jan  4 14:48 ft_isodd.o
+-rwx------  1 cledant 2015_paris 664  Jan  4 14:48 ft_isprint.o
+-rwx------  1 cledant 2015_paris 672  Jan  4 14:48 ft_isspace.o
+-rwx------  1 cledant 2015_paris 1500  Jan  4 14:48 ft_itoa.o
+-rwx------  1 cledant 2015_paris 636  Jan  4 14:48 ft_lstadd.o
+-rwx------  1 cledant 2015_paris 676  Jan  4 14:48 ft_lstcount_node.o
+-rwx------  1 cledant 2015_paris 708  Jan  4 14:48 ft_lstcount_non_zero_size_node.o
+-rwx------  1 cledant 2015_paris 796  Jan  4 14:48 ft_lstdel.o
+-rwx------  1 cledant 2015_paris 736  Jan  4 14:48 ft_lstdelone.o
+-rwx------  1 cledant 2015_paris 664  Jan  4 14:48 ft_lstiter.o
+-rwx------  1 cledant 2015_paris 1604  Jan  4 14:48 ft_lstmap.o
+-rwx------  1 cledant 2015_paris 996  Jan  4 14:48 ft_lstnew.o
+-rwx------  1 cledant 2015_paris 668  Jan  4 14:48 ft_lstpushback.o
+-rwx------  1 cledant 2015_paris 1552  Jan  4 14:48 ft_lstread_file.o
+-rwx------  1 cledant 2015_paris 644  Jan  4 14:48 ft_max.o
+-rwx------  1 cledant 2015_paris 728  Jan  4 14:48 ft_memalloc.o
+-rwx------  1 cledant 2015_paris 768  Jan  4 14:48 ft_memccpy.o
+-rwx------  1 cledant 2015_paris 724  Jan  4 14:48 ft_memchr.o
+-rwx------  1 cledant 2015_paris 740  Jan  4 14:48 ft_memcmp.o
+-rwx------  1 cledant 2015_paris 708  Jan  4 14:48 ft_memcpy.o
+-rwx------  1 cledant 2015_paris 676  Jan  4 14:48 ft_memdel.o
+-rwx------  1 cledant 2015_paris 964  Jan  4 14:48 ft_memmove.o
+-rwx------  1 cledant 2015_paris 700  Jan  4 14:48 ft_memset.o
+-rwx------  1 cledant 2015_paris 676  Jan  4 14:48 ft_putchar.o
+-rwx------  1 cledant 2015_paris 688  Jan  4 14:48 ft_putchar_fd.o
+-rwx------  1 cledant 2015_paris 708  Jan  4 14:48 ft_putendl.o
+-rwx------  1 cledant 2015_paris 728  Jan  4 14:48 ft_putendl_fd.o
+-rwx------  1 cledant 2015_paris 748  Jan  4 14:48 ft_putendln.o
+-rwx------  1 cledant 2015_paris 948  Jan  4 14:48 ft_putnbr.o
+-rwx------  1 cledant 2015_paris 972  Jan  4 14:48 ft_putnbr_fd.o
+-rwx------  1 cledant 2015_paris 712  Jan  4 14:48 ft_putnbrendl.o
+-rwx------  1 cledant 2015_paris 728  Jan  4 14:48 ft_putnbrendl_fd.o
+-rwx------  1 cledant 2015_paris 704  Jan  4 14:48 ft_putstr.o
+-rwx------  1 cledant 2015_paris 720  Jan  4 14:48 ft_putstr_fd.o
+-rwx------  1 cledant 2015_paris 732  Jan  4 14:48 ft_putstrn.o
+-rwx------  1 cledant 2015_paris 820  Jan  4 14:48 ft_round_double.o
+-rwx------  1 cledant 2015_paris 756  Jan  4 14:48 ft_strcat.o
+-rwx------  1 cledant 2015_paris 788  Jan  4 14:48 ft_strchr.o
+-rwx------  1 cledant 2015_paris 716  Jan  4 14:48 ft_strclr.o
+-rwx------  1 cledant 2015_paris 756  Jan  4 14:48 ft_strcmp.o
+-rwx------  1 cledant 2015_paris 700  Jan  4 14:48 ft_strcpy.o
+-rwx------  1 cledant 2015_paris 676  Jan  4 14:48 ft_strdel.o
+-rwx------  1 cledant 2015_paris 804  Jan  4 14:48 ft_strdup.o
+-rwx------  1 cledant 2015_paris 748  Jan  4 14:48 ft_strequ.o
+-rwx------  1 cledant 2015_paris 672  Jan  4 14:48 ft_striter.o
+-rwx------  1 cledant 2015_paris 696  Jan  4 14:48 ft_striteri.o
+-rwx------  1 cledant 2015_paris 940  Jan  4 14:48 ft_strjoin.o
+-rwx------  1 cledant 2015_paris 952  Jan  4 14:48 ft_strlcat.o
+-rwx------  1 cledant 2015_paris 676  Jan  4 14:48 ft_strlen.o
+-rwx------  1 cledant 2015_paris 844  Jan  4 14:48 ft_strmap.o
+-rwx------  1 cledant 2015_paris 868  Jan  4 14:48 ft_strmapi.o
+-rwx------  1 cledant 2015_paris 848  Jan  4 14:48 ft_strncat.o
+-rwx------  1 cledant 2015_paris 856  Jan  4 14:48 ft_strncmp.o
+-rwx------  1 cledant 2015_paris 736  Jan  4 14:48 ft_strncpy.o
+-rwx------  1 cledant 2015_paris 800  Jan  4 14:48 ft_strnequ.o
+-rwx------  1 cledant 2015_paris 752  Jan  4 14:48 ft_strnew.o
+-rwx------  1 cledant 2015_paris 1720  Jan  4 14:48 ft_strnstr.o
+-rwx------  1 cledant 2015_paris 784  Jan  4 14:48 ft_strrchr.o
+-rwx------  1 cledant 2015_paris 2480  Jan  4 14:48 ft_strsplit.o
+-rwx------  1 cledant 2015_paris 2580  Jan  4 14:48 ft_strsplit_allspace.o
+-rwx------  1 cledant 2015_paris 1092  Jan  4 14:48 ft_strstr.o
+-rwx------  1 cledant 2015_paris 824  Jan  4 14:48 ft_strsub.o
+-rwx------  1 cledant 2015_paris 2244  Jan  4 14:48 ft_strtrim.o
+-rwx------  1 cledant 2015_paris 664  Jan  4 14:48 ft_tolower.o
+-rwx------  1 cledant 2015_paris 664  Jan  4 14:48 ft_toupper.o
+-rwx------  1 cledant 2015_paris 3248  Jan  4 14:48 get_next_line.o
+drwx------  5 cledant 2015_paris 170  Jan 10 15:10 includes
+-rwx------  1 cledant 2015_paris 77392  Jan  4 14:48 libft.a
+drwx------  79 cledant 2015_paris 2686  Jan 10 15:18 srcs
+
+./libft/includes:
+total 48
+drwx------  5 cledant 2015_paris 170  Jan 10 15:10 .
+drwx------  83 cledant 2015_paris 2822  Jan  4 14:48 ..
+-rwx------  1 cledant 2015_paris 6148  Dec  6 11:17 .DS_Store
+-rw-------  1 cledant 2015_paris 16384  Jan 10 15:10 .libft.h.swp
+-rwx------  1 cledant 2015_paris 4431  Jan  4 09:14 libft.h
+
+./libft/srcs:
+total 624
+drwx------  79 cledant 2015_paris 2686  Jan 10 15:18 .
+drwx------  83 cledant 2015_paris 2822  Jan  4 14:48 ..
+-rwx------  1 cledant 2015_paris 10244  Dec 10 13:46 .DS_Store
+-rwx------  1 cledant 2015_paris 955  Nov 28 13:50 ft_abs.c
+-rwx------  1 cledant 2015_paris 2160  Dec 20 16:24 ft_atoi.c
+-rwx------  1 cledant 2015_paris 1050  Dec 10 11:09 ft_bzero.c
+-rwx------  1 cledant 2015_paris 1158  Dec 16 17:32 ft_can_be_atoi.c
+-rwx------  1 cledant 2015_paris 1342  Dec 19 16:40 ft_int_tab2_new.c
+-rwx------  1 cledant 2015_paris 1042  Nov 23 19:22 ft_isalnum.c
+-rwx------  1 cledant 2015_paris 1014  Nov 23 19:20 ft_isalpha.c
+-rwx------  1 cledant 2015_paris 979  Nov 23 19:18 ft_isascii.c
+-rwx------  1 cledant 2015_paris 980  Nov 23 19:23 ft_isdigit.c
+-rwx------  1 cledant 2015_paris 1013  Nov 29 13:57 ft_iseven.c
+-rwx------  1 cledant 2015_paris 1012  Nov 29 13:56 ft_isodd.c
+-rwx------  1 cledant 2015_paris 981  Nov 23 19:41 ft_isprint.c
+-rwx------  1 cledant 2015_paris 996  Dec 16 10:13 ft_isspace.c
+-rwx------  1 cledant 2015_paris 1668  Dec 10 13:39 ft_itoa.c
+-rwx------  1 cledant 2015_paris 993  Nov 28 11:56 ft_lstadd.c
+-rwx------  1 cledant 2015_paris 1056  Dec 20 12:39 ft_lstcount_node.c
+-rwx------  1 cledant 2015_paris 1101  Dec 15 16:47 ft_lstcount_non_zero_size_node.c
+-rwx------  1 cledant 2015_paris 1290  Nov 28 12:07 ft_lstdel.c
+-rwx------  1 cledant 2015_paris 1128  Nov 28 13:21 ft_lstdelone.c
+-rwx------  1 cledant 2015_paris 1029  Nov 28 10:40 ft_lstiter.c
+-rwx------  1 cledant 2015_paris 2073  Nov 28 13:27 ft_lstmap.c
+-rwx------  1 cledant 2015_paris 1469  Jan  4 10:42 ft_lstnew.c
+-rwx------  1 cledant 2015_paris 1031  Dec  9 16:55 ft_lstpushback.c
+-rwx------  1 cledant 2015_paris 1745  Dec 19 15:57 ft_lstread_file.c
+-rwx------  1 cledant 2015_paris 968  Dec 19 11:25 ft_max.c
+-rwx------  1 cledant 2015_paris 1077  Nov 25 14:41 ft_memalloc.c
+-rwx------  1 cledant 2015_paris 1215  Nov 26 13:28 ft_memccpy.c
+-rwx------  1 cledant 2015_paris 1130  Nov 27 15:55 ft_memchr.c
+-rwx------  1 cledant 2015_paris 1184  Nov 26 12:12 ft_memcmp.c
+-rwx------  1 cledant 2015_paris 1143  Nov 25 10:44 ft_memcpy.c
+-rwx------  1 cledant 2015_paris 988  Nov 26 09:39 ft_memdel.c
+-rwx------  1 cledant 2015_paris 1254  Nov 25 12:07 ft_memmove.c
+-rwx------  1 cledant 2015_paris 1127  Nov 25 20:09 ft_memset.c
+-rwx------  1 cledant 2015_paris 959  Nov 24 10:30 ft_putchar.c
+-rwx------  1 cledant 2015_paris 971  Nov 25 18:53 ft_putchar_fd.c
+-rwx------  1 cledant 2015_paris 981  Nov 25 16:56 ft_putendl.c
+-rwx------  1 cledant 2015_paris 1006  Nov 25 16:48 ft_putendl_fd.c
+-rwx------  1 cledant 2015_paris 1094  Dec  9 16:55 ft_putendln.c
+-rwx------  1 cledant 2015_paris 1168  Nov 28 16:45 ft_putnbr.c
+-rwx------  1 cledant 2015_paris 1207  Nov 28 16:44 ft_putnbr_fd.c
+-rwx------  1 cledant 2015_paris 976  Nov 28 16:59 ft_putnbrendl.c
+-rwx------  1 cledant 2015_paris 1001  Nov 28 17:00 ft_putnbrendl_fd.c
+-rwx------  1 cledant 2015_paris 997  Nov 24 10:30 ft_putstr.c
+-rwx------  1 cledant 2015_paris 1015  Nov 25 18:55 ft_putstr_fd.c
+-rwx------  1 cledant 2015_paris 1074  Dec  9 16:55 ft_putstrn.c
+-rwx------  1 cledant 2015_paris 1045  Jan  4 09:04 ft_round_double.c
+-rwx------  1 cledant 2015_paris 1112  Nov 24 15:53 ft_strcat.c
+-rwx------  1 cledant 2015_paris 1155  Nov 24 18:02 ft_strchr.c
+-rwx------  1 cledant 2015_paris 1014  Nov 25 13:54 ft_strclr.c
+-rwx------  1 cledant 2015_paris 1235  Nov 26 13:39 ft_strcmp.c
+-rwx------  1 cledant 2015_paris 1088  Nov 24 19:15 ft_strcpy.c
+-rwx------  1 cledant 2015_paris 988  Nov 26 09:40 ft_strdel.c
+-rwx------  1 cledant 2015_paris 1186  Nov 23 14:50 ft_strdup.c
+-rwx------  1 cledant 2015_paris 1047  Nov 25 15:16 ft_strequ.c
+-rwx------  1 cledant 2015_paris 984  Nov 25 14:08 ft_striter.c
+-rwx------  1 cledant 2015_paris 1059  Nov 25 14:16 ft_striteri.c
+-rwx------  1 cledant 2015_paris 1356  Dec 10 13:38 ft_strjoin.c
+-rwx------  1 cledant 2015_paris 1351  Dec 10 13:33 ft_strlcat.c
+-rwx------  1 cledant 2015_paris 1042  Nov 23 13:04 ft_strlen.c
+-rwx------  1 cledant 2015_paris 1236  Dec 10 13:36 ft_strmap.c
+-rwx------  1 cledant 2015_paris 1316  Dec 10 13:37 ft_strmapi.c
+-rwx------  1 cledant 2015_paris 1203  Nov 27 17:03 ft_strncat.c
+-rwx------  1 cledant 2015_paris 1333  Nov 26 16:32 ft_strncmp.c
+-rwx------  1 cledant 2015_paris 1149  Nov 24 15:02 ft_strncpy.c
+-rwx------  1 cledant 2015_paris 1139  Nov 27 19:30 ft_strnequ.c
+-rwx------  1 cledant 2015_paris 1110  Dec 10 13:35 ft_strnew.c
+-rwx------  1 cledant 2015_paris 1935  Nov 27 19:39 ft_strnstr.c
+-rwx------  1 cledant 2015_paris 1150  Nov 26 16:17 ft_strrchr.c
+-rwx------  1 cledant 2015_paris 2688  Dec 10 13:39 ft_strsplit.c
+-rwx------  1 cledant 2015_paris 2750  Dec 19 14:32 ft_strsplit_allspace.c
+-rwx------  1 cledant 2015_paris 1491  Nov 24 19:11 ft_strstr.c
+-rwx------  1 cledant 2015_paris 1310  Dec 10 13:37 ft_strsub.c
+-rwx------  1 cledant 2015_paris 2308  Dec 10 13:38 ft_strtrim.c
+-rwx------  1 cledant 2015_paris 987  Nov 23 19:58 ft_tolower.c
+-rwx------  1 cledant 2015_paris 987  Nov 23 19:54 ft_toupper.c
+-rwx------  1 cledant 2015_paris 3590  Dec 10 17:23 get_next_line.c
+
+./srcs:
+total 680
+drwx------  70 cledant 2015_paris 2380  Jan 10 17:54 .
+drwx------  15 cledant 2015_paris 510  Jan 10 2016 ..
+-rw-r--r--  1 cledant 2015_paris 12288  Jan 10 13:53 .ft_btree_mstat_file.c.swp
+-rw-------  1 cledant 2015_paris 12288  Jan 10 11:56 .ft_btree_sort_dir.c.swp
+-rw-r--r--  1 cledant 2015_paris 12288  Jan 10 17:54 .ft_display_blocksize.c.swp
+-rw-r--r--  1 cledant 2015_paris 12288  Jan 10 13:45 .ft_display_l_all.c.swp
+-rw-------  1 cledant 2015_paris 12288  Jan 10 12:18 .ft_mstat_new.c.swp
+-rw-------  1 cledant 2015_paris 12288  Jan 10 12:31 .ft_mstat_save.c.swp
+-rw-------  1 cledant 2015_paris 12288  Jan 10 17:48 .ft_option_ls.c.swp
+-rw-r--r--  1 cledant 2015_paris 12288  Jan 10 17:22 .ft_option_what_to_display.c.swp
+-rw-------  1 cledant 2015_paris 12288  Jan 10 12:51 .main.c.swp
+-rw-r--r--  1 cledant 2015_paris 1078  Jan  6 12:57 ft_argv_is_opt.c
+-rwx------  1 cledant 2015_paris 1491  Jan  6 16:11 ft_btree_add_node.c
+-rwx------  1 cledant 2015_paris 1383  Jan  6 15:45 ft_btree_add_node.c.old
+-rwx------  1 cledant 2015_paris 1148  Jan  4 14:52 ft_btree_apply_infix.c
+-rwx------  1 cledant 2015_paris 1150  Jan  5 10:30 ft_btree_apply_postfix.c
+-rwx------  1 cledant 2015_paris 1172  Jan  4 15:43 ft_btree_apply_reverse_infix.c
+-rwx------  1 cledant 2015_paris 1389  Jan  5 15:18 ft_btree_del_all_0_size_node.c
+-rwx------  1 cledant 2015_paris 1671  Jan  6 17:32 ft_btree_del_all_node.c
+-rwx------  1 cledant 2015_paris 1151  Jan  4 14:54 ft_btree_delone.c
+-rwx------  1 cledant 2015_paris 2123  Jan  7 19:47 ft_btree_linfo.c.unused
+-rw-r--r--  1 cledant 2015_paris 1843  Jan 10 13:52 ft_btree_mstat_file.c
+-rwx------  1 cledant 2015_paris 1537  Jan  6 15:52 ft_btree_new.c
+-rwx------  1 cledant 2015_paris 2449  Jan  7 13:01 ft_btree_sort_dir.c
+-rw-r--r--  1 cledant 2015_paris 1213  Jan  9 17:58 ft_compare_six_month.c
+-rw-r--r--  1 cledant 2015_paris 3152  Jan  9 16:21 ft_compare_six_month.c.old
+-rwx------  1 cledant 2015_paris 1030  Jan  8 17:34 ft_display_all.c
+-rw-r--r--  1 cledant 2015_paris 1638  Jan 10 17:54 ft_display_blocksize.c
+-rw-r--r--  1 cledant 2015_paris 1617  Jan 10 13:44 ft_display_l_all.c
+-rw-r--r--  1 cledant 2015_paris 1114  Jan  8 17:44 ft_display_l_groupname.c
+-rw-r--r--  1 cledant 2015_paris 1033  Jan  9 08:54 ft_display_l_major.c
+-rw-r--r--  1 cledant 2015_paris 1051  Jan  9 08:49 ft_display_l_minor.c
+-rw-r--r--  1 cledant 2015_paris 1196  Jan  8 20:42 ft_display_l_mode.c
+-rw-r--r--  1 cledant 2015_paris 1079  Jan  8 20:42 ft_display_l_mode_group.c
+-rw-r--r--  1 cledant 2015_paris 1079  Jan  8 20:28 ft_display_l_mode_other.c
+-rw-r--r--  1 cledant 2015_paris 2007  Jan  8 20:34 ft_display_l_mode_right.c
+-rw-r--r--  1 cledant 2015_paris 2013  Jan  8 20:41 ft_display_l_mode_right_group.c
+-rw-r--r--  1 cledant 2015_paris 2013  Jan  8 20:35 ft_display_l_mode_right_other.c
+-rw-r--r--  1 cledant 2015_paris 1425  Jan  8 17:47 ft_display_l_mode_type.c
+-rw-r--r--  1 cledant 2015_paris 1072  Jan  8 20:23 ft_display_l_mode_user.c
+-rw-r--r--  1 cledant 2015_paris 1556  Jan 10 14:24 ft_display_l_symlink.c
+-rw-r--r--  1 cledant 2015_paris 1838  Jan  9 18:14 ft_display_l_time.c
+-rw-r--r--  1 cledant 2015_paris 1117  Jan  8 17:55 ft_display_l_username.c
+-rwx------  1 cledant 2015_paris 1076  Jan  6 09:03 ft_display_no_dot.c
+-rw-r--r--  1 cledant 2015_paris 1278  Jan 10 16:49 ft_explore_hidden.c
+-rwx------  1 cledant 2015_paris 1040  Jan  6 18:04 ft_free_content.c
+-rwx------  1 cledant 2015_paris 1367  Jan 10 13:00 ft_fuse_chain.c
+-rw-r--r--  1 cledant 2015_paris 1019  Jan  9 17:50 ft_is_year_leapyear.c
+-rw-r--r--  1 cledant 2015_paris 2332  Jan  7 19:47 ft_linfo_btree_compare_size.c.unused
+-rwx------  1 cledant 2015_paris 1119  Jan  7 19:47 ft_linfo_init.c.unused
+-rwx------  1 cledant 2015_paris 1086  Jan  6 15:38 ft_mstat_compare_name.c
+-rwx------  1 cledant 2015_paris 1182  Jan  5 09:18 ft_mstat_compare_time.c
+-rwx------  1 cledant 2015_paris 1056  Jan  5 15:19 ft_mstat_del.c
+-rw-r--r--  1 cledant 2015_paris 1293  Jan  6 09:47 ft_mstat_explore_hidden.c
+-rwx------  1 cledant 2015_paris 1109  Jan  7 10:47 ft_mstat_is_content_dir.c
+-rwx------  1 cledant 2015_paris 1110  Jan  8 17:14 ft_mstat_is_content_link.c
+-rwx------  1 cledant 2015_paris 1114  Jan  8 13:24 ft_mstat_is_content_sp_block.c
+-rwx------  1 cledant 2015_paris 1113  Jan  8 13:23 ft_mstat_is_content_sp_char.c
+-rwx------  1 cledant 2015_paris 1430  Jan 10 12:17 ft_mstat_new.c
+-rwx------  1 cledant 2015_paris 1799  Jan 10 12:31 ft_mstat_save.c
+-rw-r--r--  1 cledant 2015_paris 1224  Jan  6 10:40 ft_option_fill_struct.c
+-rw-r--r--  1 cledant 2015_paris 1060  Jan  6 10:09 ft_option_init.c
+-rwx------  1 cledant 2015_paris 3374  Jan 10 17:48 ft_option_ls.c
+-rw-r--r--  1 cledant 2015_paris 1904  Jan  8 17:16 ft_option_what_to_display.c
+-rwx------  1 cledant 2015_paris 1005  Jan  6 12:57 ft_putendl_colon.c
+-rwx------  1 cledant 2015_paris 1223  Jan  5 20:01 ft_strcmp_nchar.c
+-rwx------  1 cledant 2015_paris 1263  Jan  7 12:12 ft_title_cap_r.c
+-rwx------  1 cledant 2015_paris 2188  Jan  7 13:29 main.c
+-rwxrwxrwx  1 cledant 2015_paris 1655  Jan  6 13:38 main.c.old
+-rw-r--r--  1 cledant 2015_paris 1075  Jan  7 10:47 test_mstat_is_content_dir.c.test
+
+./testdir:
+total 16
+drwx------  17 cledant 2015_paris 578  Jan 10 11:37 .
+drwx------  15 cledant 2015_paris 510  Jan 10 2016 ..
+-rwx------  1 cledant 2015_paris 0  Oct  5 2014 abc
+-rwx------  1 cledant 2015_paris 0  Oct  5 2014 abcdef
+-rwx------  1 cledant 2015_paris 0  Oct  5 2014 bcdrwf
+-rwx------  1 cledant 2015_paris 0  Jan  4 16:14 coucou
+drwx------  3 cledant 2015_paris 102  Jan 10 11:38 dir
+drwx------  2 cledant 2015_paris 68  Jan  5 13:25 edir
+lrwxr-xr-x  1 cledant 2015_paris 3  Jan 10 11:37 linkdir -> dir
+lrwxr-xr-x  1 cledant 2015_paris 6  Jan 10 11:36 linkfile -> coucou
+-rw-r--r--  1 cledant 2015_paris 0  Jul 11 2015 test6mois
+-rw-r--r--  1 cledant 2015_paris 0  Jan 10 00:00 test6mois2
+-rw-r--r--  1 cledant 2015_paris 0  Jan  9 14:17 test6mois3
+-rw-r--r--  1 cledant 2015_paris 0  Jul 11 2015 test6mois4
+-rw-r--r--  1 cledant 2015_paris 0  Jul 11 2015 test6mois5
+-rw-r--r--  1 cledant 2015_paris 0  Jul 11 2015 test6mois6
+-rwx------  1 cledant 2015_paris 0  Oct  5 2014 zcvbjgfcvbn
+
+./testdir/dir:
+total 0
+drwx------  3 cledant 2015_paris 102  Jan 10 11:38 .
+drwx------  17 cledant 2015_paris 578  Jan 10 11:37 ..
+-rw-r--r--  1 cledant 2015_paris 0  Jan 10 11:38 fichiertest
+
+./testdir/edir:
+total 0
+drwx------  2 cledant 2015_paris 68  Jan  5 13:25 .
+drwx------  17 cledant 2015_paris 578  Jan 10 11:37 ..
+
+./testdirbis:
+total 8
+drwxr-xr-x  4 cledant 2015_paris 136  Jan 10 13:41 .
+drwx------  15 cledant 2015_paris 510  Jan 10 2016 ..
+lrwxr-xr-x  1 cledant 2015_paris 7  Jan 10 13:41 link -> noacces
+d---------  4 cledant 2015_paris 136  Jan 10 16:11 noacces
+
+./testdirbis/noacces:
+
+./testinfinite:
+total 0
+drwxr-xr-x  4 cledant 2015_paris 136  Jan 10 11:40 .
+drwx------  15 cledant 2015_paris 510  Jan 10 2016 ..
+-rw-r--r--  1 cledant 2015_paris 0  Jan 10 11:39 fichier
+lrwxr-xr-x  1 cledant 2015_paris 15  Jan 10 11:40 testlink -> ../testinfinite
