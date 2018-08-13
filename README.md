@@ -9,4 +9,4 @@ You may compile the executable `ft_ls` by running `make`.
 ## Usage
 
 Run `./ft_ls` as `ls` would.  
-Supportted options are : -l, -R, -a, -r and -t 
+Supported options are : -l, -R, -a, -r and -t 
